@@ -1,3 +1,5 @@
+//David Joeth Perez Paredes 1671703
+//Programa de decimal a Binario creo
 #include <iostream.h>
 #include <math.h>
 #include<conio.h>
