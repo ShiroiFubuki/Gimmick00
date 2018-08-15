@@ -74,5 +74,7 @@ case '2':
 
              } while(num > 0);//fin while (octales)
             printf("El numero octal es:\t%d\n", suma);
+	    printf("Made by David Joeth Perez Paredes 1671703");
+
 
 }
